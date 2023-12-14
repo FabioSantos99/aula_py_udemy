@@ -8,6 +8,7 @@ def escopo():
       x= 10
 
       def outra_funcao():
+            x = 10
             y = 6
             print(x, y)
       outra_funcao()
